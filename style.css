@@ -1,0 +1,145 @@
+@media (max-width: 767.98px) {
+  .hide{
+    display: none;
+  }
+}
+
+body{
+  height:100vh;
+}
+
+
+
+
+.header-img1{
+  width:30px;
+height:30px;
+margin-top:10px;
+}
+.header-img2{
+  width:30px;
+height:30px;
+margin-top:10px;
+}
+
+
+.navbar-class{
+  background-color:#2d6187;
+}
+.main-c{
+
+}
+#wrapper{
+  margin: 0 auto;
+  overflow: hidden;
+    background: rgba(255, 255, 255);
+    position: relative;
+    box-shadow: rgb(207,207,207) 3px 15px 15px 3px;
+}
+      /*      Banking Section         */
+.card-1{
+  width:100%;
+}
+
+.box1,.box2,.box3{
+  background-color: rgb(248,248,248);
+}
+.login-icon{
+  width: 10%;
+}
+.corporate-img-1{
+width:35%;
+}
+.btn {
+  background::#2d6187;
+  background-image: -webkit-linear-gradient(top, #2d6187, #2980b9);
+  background-image: -moz-linear-gradient(top, #2d6187, #2980b9);
+  background-image: -ms-linear-gradient(top, #2d6187, #2980b9);
+  background-image: -o-linear-gradient(top, #2d6187, #2980b9);
+  background-image: linear-gradient(to bottom, #2d6187, #2980b9);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color:#ffffff;
+  font-size: 15px;
+  padding: 3px 20px 3px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.btn2{
+  background: #ff1cec;
+  background-image: -webkit-linear-gradient(top, #ff1cec, #9200ed);
+  background-image: -moz-linear-gradient(top, #ff1cec, #9200ed);
+  background-image: -ms-linear-gradient(top, #ff1cec, #9200ed);
+  background-image: -o-linear-gradient(top, #ff1cec, #9200ed);
+  background-image: linear-gradient(to bottom, #ff1cec, #9200ed);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 6px 20px 8px 20px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
+
+i{
+  font-family: 'Rajdhani', sans-serif;
+}
+.reg-p{
+  font-family: 'Rajdhani', sans-serif;
+
+}
+.reg-icon{
+  width:40px;
+  margin-right:3px;
+}
+
+/*        Banking Section End          */
+/*        collapse div           */
+.collapse-row{
+  background-color: rgb(248,248,248);
+
+}
+/*        collapse div      End     */
+
+/* Last Div */
+.last-div{
+  background-color:#2d6187;
+
+}
+
+@media (max-width:991.5px) {
+  .last-div{text-align: center;
+
+
+  }
+
+}
+
+
+
+/* End of Last Div  */
